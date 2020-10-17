@@ -1,16 +1,17 @@
-### Hi there 👋
+My name is Imre Kristoffer Eilertsen, from Trondheim, Norway. I use GitHub **very** extensively to work on adblocker list projects, as well as on translations for open-source projects.
 
-<!--
-**DandelionSprout/DandelionSprout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[My main repo where I host the lists that I own](https://github.com/DandelionSprout/adfilt), has ≥135 lists for 3 dozen extensions and programs, of which around 85 were made from scratch, the latter of which is the standing world record that I'm aware of. I'm also on very good contributive terms with the teams of all of the Big 3 of adblockers: uBlock Origin, AdGuard, and Adblock Plus; as seemingly the only person in the world to do so simultaneously. However, ABP is the only one among them where I hold an official team position as a paid online freelancer.
 
-Here are some ideas to get you started:
+My translation career (For the most part English → Norwegian Bokmål) on GitHub is also very solid, and includes in roughly chronological order from earliest to recentmost, [Barcode Scanner](https://github.com/zxing/zxing/pull/878), [DNS66](https://github.com/julian-klode/dns66/pull/201), [PCSX2](https://github.com/PCSX2/pcsx2/pull/1850), [Unchecky](https://github.com/Unchecky/unchecky-translate/pull/196), [Tampermonkey](https://github.com/Tampermonkey/tampermonkey-i18n/pull/54), [App Locale 2](https://github.com/Flo354/XposedAppLocale/pull/12), [Etar](https://github.com/Etar-Group/Etar-Calendar/pull/313), [Android DVB-T Driver](https://github.com/martinmarinov/AndroidDvbDriver/pull/16), [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager/pull/1205), [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager/pull/220), [Auto Updater for Chromium](https://github.com/adolfintel/chromiumUpdater/pull/23), [Locale Emulator](https://github.com/xupefei/Locale-Emulator/pull/485), [MAME](https://github.com/mamedev/mame/pull/3828), [Call Recorder](https://gitlab.com/axet/android-call-recorder/merge_requests/20), [Magisk Manager](https://github.com/topjohnwu/Magisk/pull/864), [DS4Windows](https://github.com/Ryochan7/DS4Windows/pull/718), [NTP Pool](https://github.com/abh/ntppool/pull/169), [DBAD Public License](https://github.com/philsturgeon/dbad/pull/62), [piclone](https://github.com/raspberrypi-ui/piclone/pull/21), [pishutdown](https://github.com/raspberrypi-ui/pishutdown/pull/4), [lxplug-volume](https://github.com/raspberrypi-ui/lxplug-volume/pull/6), [lxpanel](https://github.com/lxde/lxpanel/pull/4), [Mintty](https://github.com/mintty/mintty/pull/908), [pipanel](https://github.com/raspberrypi-ui/pipanel/pull/9), [rp-prefapps](https://github.com/raspberrypi-ui/rp-prefapps), [lxplug-network](https://github.com/raspberrypi-ui/lxplug-network/pull/10), and [lxplug-bluetooth](https://github.com/raspberrypi-ui/lxplug-bluetooth/pull/8). Outside of GitHub, my greatest translation accomplishments include WordPressCOM, VLC, Audacity, PaintNET, Audacity, Voidtools Everything, XNViewMP, PeaZip, ElementIO, Mastodon, and Bitwarden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more info about my worklife and achievements, go to https://sproutsluckycorner.wordpress.com/2017/11/14/my-work-and-contact-resume/. For a newspaper-interview-esque Q&A that probably no one asked for, read on below:
+
+* Favourite food: Extra creamy veggie/chicken casserole with extra lemon.
+* Favourite drink: Orange milkshake.
+* Favourite TV show: *Sveriges Värsta Bilförare*.
+* Favourite movie: The Adventures of Tintin.
+* Favourite videogame genres: 3D platformers, racing, minigame collections, exercise games, non-MTX construction games.
+* Listens to: Probably https://www.deezer.com/playlist/4419236002.
+* Love of my life: Disney Fairies.
+* Children: None (sterilised).
+* Work environment: An allround multimedia quasi-workstation PC with Windows 10. Also has a Raspberry Pi 4 with Raspberry Pi OS Bullseye as a webserver. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 160Hz IPS monitor in portrait mode, 4.0 surround (emulating 5.1) with 2 pairs of USB speakers, 2 UPS batteries, a 10Gb Ethernet LAN setup, and 300/30 broadband.
