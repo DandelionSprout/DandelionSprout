@@ -13,6 +13,6 @@ For more info about my worklife and achievements, go to https://sproutsluckycorn
 * Favourite videogame genres: 3D platformers, racing, minigame collections, exercise games, non-MTX construction games.
 * Listens to: Probably https://www.deezer.com/playlist/4419236002.
 * Love of my life: Disney Fairies.
-* Children: None (sterilised).
+* Children: None (Voluntarily sterilised).
 * Avatar source: An OC for the original Lalaloopsy Nickelodeon cartoon I tried to draw. I'm far from being ArtStation or Pixiv levels of good.
 * Work environment: An allround multimedia quasi-workstation PC with Windows 10. Also has a Raspberry Pi 4 with Raspberry Pi OS Bullseye as a webserver. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 160Hz IPS monitor in portrait mode, 4.0 surround (emulating 5.1) with 2 pairs of USB speakers, 2 UPS batteries, a 10Gb Ethernet LAN setup, and 300/30 broadband.
