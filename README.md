@@ -11,7 +11,7 @@ For more info about my worklife and achievements, go to https://sproutsluckycorn
 * Favourite TV show: *Sveriges värsta bilförare*.
 * Favourite movie: The Adventures of Tintin.
 * Favourite videogame genres: 3D platformers, racing, minigame collections, exercise games, non-MTX construction games.
-* Listens to: S-pop (My term for Scandiavian-origin pop/techno/country), compilated at https://www.deezer.com/playlist/4419236002.
+* Listens to: S-pop (My term for Scandinavian-origin pop/techno/country), compilated at https://www.deezer.com/playlist/4419236002.
 * Love of my life: [Disney Fairies](https://64.media.tumblr.com/092be3a6ce03b22b19fe4bb1d5c3dbf9/b403ed871d397f55-e8/s1280x1920/920d3a43a81e1ae26ea1619e3316762e8970f0db.jpg).
 * Children: None (Voluntarily sterilised).
 * Avatar source: An OC for the original Lalaloopsy Nickelodeon cartoon I tried to draw. I'm far from being ArtStation or Pixiv levels of good.
