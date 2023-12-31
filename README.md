@@ -6,15 +6,15 @@ My translation career (For the most part English → Norwegian Bokmål) on GitHu
 
 For a newspaper-interview-esque Q&A that probably no one asked for, read on below:
 
-* Favourite food: Microwave chicken, I guess. The only thing I have energy to make.
-* Favourite drink: Coca-Cola Vanilla. With sugar. Often the only nutrition I can obtain if I feel ill.
-* Favourite TV show: No longer sure. Ran out of meaningful things to watch.
-* Favourite movie: None.
-* Favourite videogame genres: Racing and Sims 3.
-* Listens to: S-pop (My term for Scandinavian-origin pop/techno/country), compilated at https://www.deezer.com/playlist/4419236002.
-* Love of my life: None.
+* Favourite food: Microwave chicken, I guess. The only thing I have energy to make. On days where I feel better, I like me some German-style chicken fricassée, or various chips-and-sauce meals.
+* Favourite drink: Coca-Cola Vanilla. With sugar. [On the rocks with ice](https://tv.nrk.no/serie/montreux/1985/FUHA02008984/avspiller). Often the only nutrition I can obtain if I feel ill.
+* Favourite TV show: Netflix's <i>Bad Sport</i> was pretty splendid.
+* Favourite movie: None. I've got good enough movie memory that I can't just casually rewatch a movie on a dime.
+* Favourite videogame genres: Racing and Sims 3. Also likes a bit of Ratchet & Clank.
+* Listens to: S-pop (My term for Nordic-origin pop/techno/country), compilated at https://www.deezer.com/playlist/4419236002.
+* Love of my life: None. Lost the ability to love in 2020-21.
 * Children: None (Voluntarily sterilised).
 * Avatar source: An OC for the original Lalaloopsy Nickelodeon cartoon I tried to draw. I'm far from being ArtStation or Pixiv levels of good.
-* Work environment: An allround multimedia quasi-workstation PC with Windows 11. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 160Hz IPS monitor in portrait mode, 5.1 surround (emulating 5.1) with 3 pairs of USB speakers, 2 UPS batteries, a 10Gb Ethernet LAN setup, and 350/350 broadband.
+* Work environment: An allround multimedia quasi-workstation PC with Windows 11. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 160Hz IPS monitor in portrait mode, 5.1 surround with 3 pairs of USB speakers, 2 UPS batteries, a 10Gb Ethernet LAN setup, and 500/500 FttH broadband.
 
-I became noticeably mentally damaged in January 2023 for reasons that still remain unclear, and have yet to come close to recovering.
+I became noticeably endurance-damaged in January 2023 for reasons that still remain unclear, and have yet to come close to recovering. Starting in December 2023, Voltaren tablets are dragging me out of zombie mode, but long-term stability remains to be determined; until such stability is ensured for sure, my teambuilding and workload capacities may be sub-standard.
