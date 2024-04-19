@@ -19,4 +19,4 @@ For a newspaper-interview-esque Q&A that probably no one asked for, read on belo
 * Avatar source: An OC for the original Lalaloopsy Nickelodeon cartoon I tried to draw. I'm far from being ArtStation or Pixiv levels of good.
 * Work environment: An allround multimedia quasi-workstation PC with Windows 11. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 160Hz IPS monitor in portrait mode, 5.1 surround with 3 pairs of USB speakers, 2 UPS batteries, a 10Gb Ethernet LAN setup, and 500/500 FttH broadband.
 
-I became noticeably endurance-damaged in January 2023 for reasons that still remain unclear, and have yet to come close to recovering. Starting in December 2023, Voltaren tablets are dragging me out of zombie mode, before it once more collapsed in April 2024.
+I became noticeably endurance-damaged in January 2023 for reasons that still remain unclear, and have yet to come close to recovering. Starting in December 2023, Voltaren tablets are dragging me out of zombie mode, before the energy levels once more collapsed in April 2024.
