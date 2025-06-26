@@ -9,9 +9,9 @@ On the side, I've worked with a dozen or so wiki projects and, Sims 3 gamemods, 
 For a newspaper-interview-esque Q&A that probably no one asked for, read on below:
 
 * Favourite food: Microwave chicken, I guess. Fits well on days where the couch feels nice. On days where I feel better, I like me some German-style chicken fricassée, or various chips-and-sauce meals.
-* Favourite drink: Coca-Cola Vanilla. With sugar. [On the rocks with ice](https://tv.nrk.no/serie/montreux/1985/FUHA02008984/avspiller). Often the only nutrition I can obtain if I feel ill.
+* Favourite drink: Coop Spirit (A soda brand). With sugar. [On the rocks with ice](https://tv.nrk.no/serie/montreux/1985/FUHA02008984/avspiller). Often the only nutrition I can obtain if I feel ill.
 * Favourite TV show: Netflix's <i>Bad Sport</i> was pretty splendid. Watches anti-hipster cartoons from time to time, but on a rolling basis where I never watch them for more than 3 years or so.
-* Favourite movie: None. I've got good enough movie memory that I can't just casually rewatch a movie on a dime.
+* Favourite movie: None. I've got good enough movie memory that I can't just casually rewatch a movie on the spot.
 * Favourite videogame genres:
 * * Racing games (Things like Burnout 3/Revenge, Gran Turismo 3-4, Sonic All-Stars Transformed)
   * Specific open-world games (Sims 3, Grand Theft Auto V / Vice City Def Ed)
@@ -22,4 +22,4 @@ For a newspaper-interview-esque Q&A that probably no one asked for, read on belo
 * Avatar source: An OC for the original Lalaloopsy Nickelodeon cartoon I tried to draw in 2016. I'm far from being ArtStation or Pixiv levels of good.
 * Work environment: An allround multimedia quasi-workstation PC with Windows 11. MX Blue keyboard, sideheld Evoluent mouse, AOC AGON 1440p 165Hz IPS monitor in portrait mode, 5.1 surround with 3 pairs of USB speakers, a 10Gb Ethernet LAN setup, and 500/500 FttH broadband.
 
-Owing to the hefty amounts of medications I need to keep me somewhat calm in everyday life, incl. lamotrigine, sertraline, quetiapine, and diazepam, my ability to perform physical labour is not much to write home about, and sometimes even making dinners or walking to the supermarkets prove too exhausting to do.
+Owing to the hefty amounts of medications I need to keep me somewhat calm in everyday life, incl. lamotrigine, sertraline, and diazepam, my ability to perform physical labour is not much to write home about, and sometimes even making dinners or walking to the supermarkets prove too exhausting to do.
